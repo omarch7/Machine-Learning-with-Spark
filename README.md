@@ -5,6 +5,6 @@ Based on the book [Machine Learning with Spark](https://www.amazon.com/Machine-L
 
 Most of the code is done in Scala, plotting examples are written in Python
 
-#####Omar Alejandro Contreras Haces
-######Advance Computing Master's Candidate
-######Knowledge Engieering Lab, Tsinghua University
+##### Omar Alejandro Contreras Haces
+###### Advance Computing Master's Candidate
+###### Knowledge Engieering Lab, Tsinghua University
